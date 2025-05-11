@@ -113,12 +113,6 @@ This is ideal for developers building **developer tools**, **code sharing platfo
 
 ---
 
-## 📸 Screenshots
-
-> *(Add GIFs or screenshots showing the editor, authentication, snippet dashboard, payment modal, and code execution)*
-
----
-
 ## 🧪 Getting Started Locally
 
 ### 1. Clone the Repo
@@ -143,7 +137,7 @@ CLERK_SECRET_KEY=
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CONVEX_DEPLOYMENT_URL=
 NEXT_PUBLIC_CONVEX_URL=
-VITE_CLERK_FRONTEND_API_URL
+VITE_CLERK_FRONTEND_API_URL=
 LEMONSQUEEZY_CHECKOUT_URL=
 ```
 
